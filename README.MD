@@ -3,8 +3,8 @@
 <img src="https://nocountry.tech/nocountry-logo.png" align="right" width="80" style="margin: 10px;">
 <h1 style="padding-bottom: 2rem;" >SentimentAPI</h1>
 <p align="left">
-	<em>Transformando feedback bruto em inteligência de dados.</em>
-	<em>[Apresentação](https://www.youtube.com/watch?v=43Q5quqrRGU)</em>
+	<em>Transformando feedback bruto em inteligência de dados.</em><br>
+	<em>Apresentação em https://www.youtube.com/watch?v=43Q5quqrRGU</em>
 </p>
 
 </div>
