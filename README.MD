@@ -4,6 +4,7 @@
 <h1 style="padding-bottom: 2rem;" >SentimentAPI</h1>
 <p align="left">
 	<em>Transformando feedback bruto em inteligência de dados.</em>
+	<em>[Apresentação](https://www.youtube.com/watch?v=43Q5quqrRGU)</em>
 </p>
 
 </div>
